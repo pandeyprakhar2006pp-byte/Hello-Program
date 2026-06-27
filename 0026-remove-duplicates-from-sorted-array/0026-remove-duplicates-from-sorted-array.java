@@ -1,22 +1,20 @@
-import java.util.*;
-
 class Solution {
     public int removeDuplicates(int[] nums) {
 
-        HashSet<Integer> set = new HashSet<>();
-
-        for (int num : nums) {
-            set.add(num);
+        if (nums.length == 0) {
+            return 0;
         }
 
-        int index = 0;
+        int i = 0;
 
-        for (int num : set) {
-            nums[index++] = num;
+        for (int j = 1; j < nums.length; j++) {
+
+            if (nums[i] != nums[j]) {
+                nums[i+1]=nums[j];
+                i++;
+            }
         }
 
-        Arrays.sort(nums, 0, index);
-
-        return index;
+        return i + 1;
     }
 }
