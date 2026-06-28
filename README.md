@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
