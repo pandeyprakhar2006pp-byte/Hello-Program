@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0540-single-element-in-a-sorted-array) |
