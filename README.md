@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0704-binary-search) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0234-palindrome-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,4 +285,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
