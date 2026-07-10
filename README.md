@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0402-remove-k-digits) |
+| [1021-remove-outermost-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1021-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |
