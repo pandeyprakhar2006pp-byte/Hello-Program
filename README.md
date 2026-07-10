@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1903-largest-odd-number-in-string) |
