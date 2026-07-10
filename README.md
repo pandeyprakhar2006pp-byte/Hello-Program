@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -346,4 +348,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
