@@ -1,26 +1,32 @@
+import java.util.*;
+
 class Solution {
     public boolean isIsomorphic(String s, String t) {
 
-        int[] map = new int[256];
-        boolean[] visited = new boolean[256];
+        if (s.length() != t.length()) {
+            return false;
+        }
+
+        HashMap<Character, Character> map = new HashMap<>();
 
         for (int i = 0; i < s.length(); i++) {
 
-            char ch1 = s.charAt(i);
-            char ch2 = t.charAt(i);
+            char original = s.charAt(i);
+            char replacement = t.charAt(i);
 
-            if (map[ch1] == 0) {
+            if (!map.containsKey(original)) {
 
-                if (visited[ch2]) {
+                if (!map.containsValue(replacement)) {
+                    map.put(original, replacement);
+                } else {
                     return false;
                 }
 
-                map[ch1] = ch2;
-                visited[ch2] = true;
-
             } else {
 
-                if (map[ch1] != ch2) {
+                char mappedCharacter = map.get(original);
+
+                if (mappedCharacter != replacement) {
                     return false;
                 }
             }
