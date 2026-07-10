@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
