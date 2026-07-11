@@ -2,38 +2,46 @@ class Solution {
 
     public String longestPalindrome(String s) {
 
-        if (s == null || s.length() < 2)
-            return s;
-
         int start = 0;
-        int end = 0;
+        int maxLen = 1;
 
         for (int i = 0; i < s.length(); i++) {
 
-            int len1 = expand(s, i, i);       // Odd length
-            int len2 = expand(s, i, i + 1);   // Even length
+            // Odd Length
+            int left = i - 1;
+            int right = i + 1;
 
-            int len = Math.max(len1, len2);
+            while (left >= 0 && right < s.length()
+                    && s.charAt(left) == s.charAt(right)) {
+                left--;
+                right++;
+            }
 
-            if (len > end - start + 1) {
+            int len = right - left - 1;
 
-                start = i - (len - 1) / 2;
-                end = i + len / 2;
+            if (len > maxLen) {
+                maxLen = len;
+                start = left + 1;
+            }
+
+            // Even Length
+            left = i;
+            right = i + 1;
+
+            while (left >= 0 && right < s.length()
+                    && s.charAt(left) == s.charAt(right)) {
+                left--;
+                right++;
+            }
+
+            len = right - left - 1;
+
+            if (len > maxLen) {
+                maxLen = len;
+                start = left + 1;
             }
         }
 
-        return s.substring(start, end + 1);
-    }
-
-    public int expand(String s, int left, int right) {
-
-        while (left >= 0 && right < s.length()
-                && s.charAt(left) == s.charAt(right)) {
-
-            left--;
-            right++;
-        }
-
-        return right - left - 1;
+        return s.substring(start, start + maxLen);
     }
 }
