@@ -2,38 +2,35 @@ class Solution {
 
     public int trap(int[] height) {
 
-        int lp = 0;
-        int rp = height.length - 1;
+        int n = height.length;
 
-        int leftMax = 0;
-        int rightMax = 0;
+        int[] leftMax = new int[n];
+        int[] rightMax = new int[n];
 
-        int trappedWater = 0;
+        // Left Max Array
+        leftMax[0] = height[0];
 
-        while (lp <= rp) {
-
-            if (height[lp] <= height[rp]) {
-
-                if (height[lp] >= leftMax) {
-                    leftMax = height[lp];
-                } else {
-                    trappedWater += leftMax - height[lp];
-                }
-
-                lp++;
-
-            } else {
-
-                if (height[rp] >= rightMax) {
-                    rightMax = height[rp];
-                } else {
-                    trappedWater += rightMax - height[rp];
-                }
-
-                rp--;
-            }
+        for (int i = 1; i < n; i++) {
+            leftMax[i] = Math.max(leftMax[i - 1], height[i]);
         }
 
-        return trappedWater;
+        // Right Max Array
+        rightMax[n - 1] = height[n - 1];
+
+        for (int i = n - 2; i >= 0; i--) {
+            rightMax[i] = Math.max(rightMax[i + 1], height[i]);
+        }
+
+        int water = 0;
+
+        // Calculate Trapped Water
+        for (int i = 0; i < n; i++) {
+
+            int level = Math.min(leftMax[i], rightMax[i]);
+
+            water += level - height[i];
+        }
+
+        return water;
     }
 }
