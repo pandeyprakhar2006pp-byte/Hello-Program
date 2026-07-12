@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1021-remove-outermost-parentheses) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Graph Theory
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0155-min-stack) |
+| [0901-online-stock-span](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0901-online-stock-span) |
 ## Greedy
 |  |
 | ------- |
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0451-sort-characters-by-frequency) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
