@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0240-search-a-2d-matrix-ii) |
 | [0485-max-consecutive-ones](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0485-max-consecutive-ones) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0547-number-of-provinces) |
 ## Binary Indexed Tree
 |  |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -320,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0783-minimum-distance-between-bst-nodes) |
