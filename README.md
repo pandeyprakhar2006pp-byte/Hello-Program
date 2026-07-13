@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0735-asteroid-collision) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0907-sum-of-subarray-minimums) |
 ## Two Pointers
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0783-minimum-distance-between-bst-nodes) |
