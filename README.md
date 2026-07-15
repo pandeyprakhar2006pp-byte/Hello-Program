@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1020-number-of-enclaves) |
 ## Binary Indexed Tree
 |  |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0785-is-graph-bipartite](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1020-number-of-enclaves) |
 ## Bit Manipulation
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0785-is-graph-bipartite) |
 ## String
 |  |
 | ------- |
