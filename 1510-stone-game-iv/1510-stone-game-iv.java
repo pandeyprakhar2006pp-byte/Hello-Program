@@ -1,6 +1,5 @@
 class Solution {
     public boolean winnerSquareGame(int n) {
-        // dp[i] will store true if the first player to move can win with i stones
         boolean[] dp = new boolean[n + 1];
         
         // Base case: dp[0] is false (default in Java booleans)
