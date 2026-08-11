@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0907-sum-of-subarray-minimums) |
+| [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0189-rotate-array) |
+| [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
 |  |
@@ -454,4 +456,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0210-course-schedule-ii) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
