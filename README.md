@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1020-number-of-enclaves) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0451-sort-characters-by-frequency) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
