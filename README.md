@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0018-4sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
