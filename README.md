@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0907-sum-of-subarray-minimums) |
 | [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 ## Two Pointers
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 | [1903-largest-odd-number-in-string](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1903-largest-odd-number-in-string) |
 ## Union-Find
@@ -469,11 +472,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -487,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/0877-stone-game) |
 | [1510-stone-game-iv](https://github.com/pandeyprakhar2006pp-byte/Hello-Program/tree/master/1510-stone-game-iv) |
 ## Sliding Window
 |  |
